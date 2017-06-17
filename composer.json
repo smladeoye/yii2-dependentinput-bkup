@@ -1,0 +1,18 @@
+{
+    "name": "smladeoye/yii2-dependentinput",
+    "description": "Yii 2 Dependent Form Input",
+    "keywords": ["yii2", "dependent", "dynamic input", "form", "widget", "javascript", "jquery", "smladeoye"],
+    "type": "yii2-widget",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smladeoye",
+            "email": "smladeoye@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "smladeoye\\": "src/"
+        }
+    }
+}
