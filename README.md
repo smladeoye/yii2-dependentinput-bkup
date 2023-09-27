@@ -70,12 +70,3 @@ Example:
 ?>
 
 ```
-
-There are seven operations available that can be performed which have been grouped based on Paystack's own grouping.
-Each of the operations also have their individual methods that can be called for performing different actions
-(create, list -- fetchAll, fetch, update,...) which can accept all the necessary parameters as an array.
-
-The following are the available operations and methods (all sample codes are based on the demo configuration above):
-
-
-1. **customer**:   To initiatiate any customer operation:
